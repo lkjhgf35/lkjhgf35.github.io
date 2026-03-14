@@ -1,0 +1,8 @@
+print: this is a blog
+
+Copy
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
